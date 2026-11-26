@@ -1,0 +1,17 @@
+# 本地浏览器登录态与缓存
+.browser_profile/
+outputs/
+*reviews*.json
+output*.json
+cookies*.json
+
+# 环境与系统垃圾文件
+.env
+.env.*
+*.log
+venv/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
